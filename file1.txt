@@ -1,3 +1,2 @@
 Начало работы
-git config --global user.name "askovikova"
-git config --global user.email "anskovikova@gmail.com"
+Ntrcn ntrcn
